@@ -1,0 +1,16 @@
+[
+  {
+    "IdOwner": "owner1",
+    "Name": "Penthouse Central Park",
+    "Address": "Calle 100 #10-20",
+    "Price": 1200000,
+    "ImageUrl": "https://picsum.photos/seed/p1/600/400"
+  },
+  {
+    "IdOwner": "owner2",
+    "Name": "Apartamento norte",
+    "Address": "Carrera 7 #45-12",
+    "Price": 350000,
+    "ImageUrl": "https://picsum.photos/seed/p2/600/400"
+  }
+]
